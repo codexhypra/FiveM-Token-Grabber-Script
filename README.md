@@ -5,4 +5,4 @@ He he haw by Hypra
 
 
 
-<img width="100" alt="Screenshot 2023-09-07 023706 copy" src="https://github.com/codexhypra/FiveM-Token-Grabber-Script/assets/104398254/b3cdf29b-1686-403b-913a-e3b80c4dc290">
+<img width="800" alt="Screenshot 2023-09-07 023706 copy" src="https://github.com/codexhypra/FiveM-Token-Grabber-Script/assets/104398254/b3cdf29b-1686-403b-913a-e3b80c4dc290">
